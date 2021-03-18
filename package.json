@@ -1,0 +1,10 @@
+{
+  "name": "@skypilot/chaindrive",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Library for assembling & managing a chain of processing elements",
+  "repository": "https://github.com/skypilot-dev/chaindrive.git",
+  "license": "MIT",
+  "author": "William Thorsen <william@thorsen.dev>",
+  "main": "lib/index.js"
+}
