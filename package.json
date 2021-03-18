@@ -3,8 +3,27 @@
   "version": "0.1.0",
   "private": false,
   "description": "Library for assembling & managing a chain of processing elements",
-  "repository": "https://github.com/skypilot-dev/chaindrive.git",
+  "keywords": [
+    "functional",
+    "pipeline",
+    "steps",
+    "processing"
+  ],
+  "homepage": "https://github.com/skypilot-dev/chaindrive#readme",
+  "bugs": {
+    "url": "https://github.com/skypilot-dev/chaindrive/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypilot-dev/chaindrive.git"
+  },
   "license": "MIT",
-  "author": "William Thorsen <william@thorsen.dev>",
-  "main": "lib/index.js"
+  "author": {
+    "name": "William Thorsen",
+    "email": "william@thorsen.dev"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  }
 }
